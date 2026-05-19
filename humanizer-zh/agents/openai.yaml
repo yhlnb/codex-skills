@@ -1,0 +1,4 @@
+interface:
+  display_name: "Humanizer zh"
+  short_description: "Polish Chinese text to remove AI writing traces."
+  default_prompt: "Use $humanizer-zh to make this Chinese draft sound more natural and human."
