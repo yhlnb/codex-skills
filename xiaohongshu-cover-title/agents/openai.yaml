@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书封面标题"
+  short_description: "根据口播、storyline或选题灵感，生成符合个人调性的小红书封面文案、标题和构图方案。"
+  default_prompt: "根据我的口播、storyline或选题灵感，按我的个人调性生成8组小红书封面标题和可直接照做的封面构图方案。"
